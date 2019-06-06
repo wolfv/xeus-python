@@ -19,6 +19,7 @@ namespace xpyt
     py::module get_debugger_module();
 
     void register_debugger_comm();
+
 }
 
 #endif
